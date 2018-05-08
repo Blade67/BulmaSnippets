@@ -3,7 +3,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [To come](#tocome)
+- [To come](#todo)
 
 ---
 
@@ -22,7 +22,7 @@ Simply type ``bulma`` and the auto-complete should propose you all the options!
 
 ---
 
-### [](#tocome)To come
+### [](#todo)To come
 ###### *Hopefully*
 
 - Menu bar snippets (including the `<html>` tag for static bars)
