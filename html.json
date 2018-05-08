@@ -1,0 +1,211 @@
+{
+	"Bulma": {
+		"prefix": "bulma",
+		"body": [
+			"<script src=\"./node_modules/bulma/css/bulma.min.css\"></script>"
+		],
+		"description": "Bulma CSS Librairy"
+	},
+	"Bulma Extensions - All": {
+		"prefix": "bulma",
+		"body": [
+			"<script src=\"./node_modules/bulma-extensions/dist/bulma-extensions.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - All"
+	},
+	"Bulma Extensions - All (Single)": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Extension -->",
+			"<!-- Bulma Accordion -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-accordion/dist/bulma-accordion.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-accordion/dist/bulma-accordion.min.js\"></script>",
+			"<!-- Bulma Badge -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-badge/dist/bulma-badge.min.css\"></script>",
+			"<!-- Bulma Calendar -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-calendar/dist/bulma-calendar.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-calendar/dist/bulma-calendar.min.js\"></script>",
+			"<!-- Bulma Carousel -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-carousel/dist/bulma-carousel.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-carousel/dist/bulma-carousel.min.js\"></script>",
+			"<!-- Bulma Checkradio -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-checkradio/dist/bulma-checkradio.min.css\"></script>",
+			"<!-- Bulma Divider -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-divider/dist/bulma-divider.min.css\"></script>",
+			"<!-- Bulma Iconpicker -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-iconpicker/dist/bulma-iconpicker.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-iconpicker/dist/bulma-iconpicker.min.js\"></script>",
+			"<!-- Bulma Pageloader -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-pageloader/dist/bulma-pageloader.min.css\"></script>",
+			"<!-- Bulma Pricingtables -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-pricingtables/dist/bulma-pricingtables.min.css\"></script>",
+			"<!-- Bulma Quickview -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-quickview/dist/bulma-quickview.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-quickview/dist/bulma-quickview.min.js\"></script>",
+			"<!-- Bulma Ribbon -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-ribbon/dist/bulma-ribbon.min.css\"></script>",
+			"<!-- Bulma Slider -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-slider/dist/bulma-slider.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-slider/dist/bulma-slider.min.js\"></script>",
+			"<!-- Bulma Steps -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-steps/dist/bulma-steps.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-steps/dist/bulma-steps.min.js\"></script>",
+			"<!-- Bulma Switch -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-switch/dist/bulma-switch.min.css\"></script>",
+			"<!-- Bulma Tagsinput -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tagsinput/dist/bulma-tagsinput.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tagsinput/dist/bulma-tagsinput.min.js\"></script>",
+			"<!-- Bulma Timeline -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-timeline/dist/bulma-timeline.min.css\"></script>",
+			"<!-- Bulma Tooltip -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tooltip/dist/bulma-tooltip.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - All (single import)"
+	},
+	"Bulma Extensions - Accordion": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Accordion -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-accordion/dist/bulma-accordion.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-accordion/dist/bulma-accordion.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Accordion"
+	},
+	"Bulma Extensions - Badge": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Badge -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-badge/dist/bulma-badge.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Badge"
+	},
+	"Bulma Extensions - Calendar": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Calendar -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-calendar/dist/bulma-calendar.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-calendar/dist/bulma-calendar.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Calendar"
+	},
+	"Bulma Extensions - Carousel": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Carousel -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-carousel/dist/bulma-carousel.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-carousel/dist/bulma-carousel.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Carousel"
+	},
+	"Bulma Extensions - Checkradio": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Checkradio -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-checkradio/dist/bulma-checkradio.min.css\"></script>",
+		],
+		"description": "Bulma Extensions - Checkradio"
+	},
+	"Bulma Extensions - Divider": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Divider -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-divider/dist/bulma-divider.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Divider"
+	},
+	"Bulma Extensions - Iconpicker": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Iconpicker -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-iconpicker/dist/bulma-iconpicker.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-iconpicker/dist/bulma-iconpicker.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Iconpicker"
+	},
+	"Bulma Extensions - Pageloader": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Pageloader -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-pageloader/dist/bulma-pageloader.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Pageloader"
+	},
+	"Bulma Extensions - Pricingtables": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Pricingtables -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-pricingtables/dist/bulma-pricingtables.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Pricingtables"
+	},
+	"Bulma Extensions - Quickview": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Quickview -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-quickview/dist/bulma-quickview.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-quickview/dist/bulma-quickview.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Quickview"
+	},
+	"Bulma Extensions - Ribbon": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Ribbon -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-ribbon/dist/bulma-ribbon.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Ribbon"
+	},
+	"Bulma Extensions - Slider": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Slider -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-slider/dist/bulma-slider.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-slider/dist/bulma-slider.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Slider"
+	},
+	"Bulma Extensions - Steps": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Steps -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-steps/dist/bulma-steps.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-steps/dist/bulma-steps.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Steps"
+	},
+	"Bulma Extensions - Switch": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Switch -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-switch/dist/bulma-switch.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Switch"
+	},
+	"Bulma Extensions - Tagsinput": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Tagsinput -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tagsinput/dist/bulma-tagsinput.min.css\"></script>",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tagsinput/dist/bulma-tagsinput.min.js\"></script>"
+		],
+		"description": "Bulma Extensions - Tagsinput"
+	},
+	"Bulma Extensions - Timeline": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Timeline -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-timeline/dist/bulma-timeline.min.css\"></script>",
+			"<!-- Bulma Tooltip -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tooltip/dist/bulma-tooltip.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Timeline"
+	},
+	"Bulma Extensions - Tooltip": {
+		"prefix": "bulma",
+		"body": [
+			"<!-- Bulma Tooltip -->",
+			"<script src=\"./node_modules/bulma-extensions/bulma-tooltip/dist/bulma-tooltip.min.css\"></script>"
+		],
+		"description": "Bulma Extensions - Tooltip"
+	}
+}
